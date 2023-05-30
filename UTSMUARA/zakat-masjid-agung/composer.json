@@ -1,0 +1,14 @@
+{
+    "name": "asus/zakat-masjid-salman",
+    "description": "Sistem Informasi Zakat Masjid Salman",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Luthfi Rahman",
+            "email": "Luthfirahman222@gmail.com"
+        }
+    ]
+}
